@@ -1,0 +1,12 @@
+/Users/andrew.chilton/Documents/interviews/sharp-interview-pairing-kata/CsharpInterview/StringLibrary/bin/Debug/net7.0/StringLibrary.deps.json
+/Users/andrew.chilton/Documents/interviews/sharp-interview-pairing-kata/CsharpInterview/StringLibrary/bin/Debug/net7.0/StringLibrary.dll
+/Users/andrew.chilton/Documents/interviews/sharp-interview-pairing-kata/CsharpInterview/StringLibrary/bin/Debug/net7.0/StringLibrary.pdb
+/Users/andrew.chilton/Documents/interviews/sharp-interview-pairing-kata/CsharpInterview/StringLibrary/obj/Debug/net7.0/StringLibrary.csproj.AssemblyReference.cache
+/Users/andrew.chilton/Documents/interviews/sharp-interview-pairing-kata/CsharpInterview/StringLibrary/obj/Debug/net7.0/StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrew.chilton/Documents/interviews/sharp-interview-pairing-kata/CsharpInterview/StringLibrary/obj/Debug/net7.0/StringLibrary.AssemblyInfoInputs.cache
+/Users/andrew.chilton/Documents/interviews/sharp-interview-pairing-kata/CsharpInterview/StringLibrary/obj/Debug/net7.0/StringLibrary.AssemblyInfo.cs
+/Users/andrew.chilton/Documents/interviews/sharp-interview-pairing-kata/CsharpInterview/StringLibrary/obj/Debug/net7.0/StringLibrary.csproj.CoreCompileInputs.cache
+/Users/andrew.chilton/Documents/interviews/sharp-interview-pairing-kata/CsharpInterview/StringLibrary/obj/Debug/net7.0/StringLibrary.dll
+/Users/andrew.chilton/Documents/interviews/sharp-interview-pairing-kata/CsharpInterview/StringLibrary/obj/Debug/net7.0/refint/StringLibrary.dll
+/Users/andrew.chilton/Documents/interviews/sharp-interview-pairing-kata/CsharpInterview/StringLibrary/obj/Debug/net7.0/StringLibrary.pdb
+/Users/andrew.chilton/Documents/interviews/sharp-interview-pairing-kata/CsharpInterview/StringLibrary/obj/Debug/net7.0/ref/StringLibrary.dll
